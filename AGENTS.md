@@ -59,3 +59,10 @@ Ship a polished web MVP that can later become a paid commercial product.
 - Database schema exists
 - README is complete
 - No TODO placeholders in critical paths
+
+# Skill policy
+Before starting implementation, inspect available Skills and prefer using installed or repo-local Skills when they match the task.
+
+If no suitable Skill exists for a recurring workflow, create a new reusable repo-local Skill instead of solving it only as a one-off change.
+
+Project Skills should be stored in the repository and reused across future milestones.
